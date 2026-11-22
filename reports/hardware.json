@@ -1,0 +1,21 @@
+{
+  "scope": "Generated tensors; model training steps only. No clinical accuracy measurement.",
+  "device": "mps",
+  "machine": "arm64",
+  "torch": "2.15.0",
+  "height": 768,
+  "width": 512,
+  "batch": 2,
+  "rates": [
+    {
+      "views": 1,
+      "breasts_per_second": 9.508623080880621,
+      "measured_steps": 8
+    },
+    {
+      "views": 2,
+      "breasts_per_second": 5.196171016859725,
+      "measured_steps": 8
+    }
+  ]
+}

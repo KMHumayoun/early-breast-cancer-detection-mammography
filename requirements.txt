@@ -1,0 +1,11 @@
+numpy==2.5.5
+pillow==13.0.0
+pydicom==3.0.2
+pylibjpeg==2.1.0
+pylibjpeg-libjpeg==2.5.0
+pylibjpeg-openjpeg==2.6.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+torch==2.15.0
+torchvision==0.29.2
+pytest==9.2.0
